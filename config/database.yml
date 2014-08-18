@@ -4,7 +4,7 @@ development:
   database: ap_development
   pool: 5
   username: ap
-  password: pass1234
+  password: password1
 
 test:
   adapter: postgresql
@@ -12,4 +12,4 @@ test:
   database: ap_test
   pool: 5
   username: ap
-  password: pass1234
+  password: password1
